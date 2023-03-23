@@ -1,9 +1,7 @@
 package homework.HomeWork5;
 
-import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class ex_2 {
@@ -49,22 +47,3 @@ public class ex_2 {
         names.put(name, startCount);
     }
 }
-
-// "Иван Иванов",
-// "Светлана Петрова",
-// "Кристина Белова",
-// "Анна Мусина",
-// "Анна Крутова",
-// "Иван Юрин",
-// "Петр Лыков",
-// "Павел Чернов",
-// "Петр Чернышов",
-// "Мария Федорова",
-// "Марина Светлова",
-// "Мария Савина",
-// "Мария Рыкова",
-// "Марина Лугова",
-// "Анна Владимирова",
-// "Иван Мечников",
-// "Петр Петин",
-// "Иван Ежов"
